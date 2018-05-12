@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: 'Translation of: The Snow Queen'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37791#-------------------
 gutenberg_issued: '2011-10-18'
 gutenberg_type: Text
 identifiers:
