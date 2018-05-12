@@ -1,0 +1,35 @@
+_repo: '-------------------_37791'
+_version: 0.1.0
+alternative_title: Snedronningen. Greek
+contributor:
+  translator:
+    agent_name: Chatziarapi, Anastasia
+    alias: Χατζηαράπη, Αναστασία
+    gutenberg_agent_id: '39065'
+    url: http://www.gutenberg.org/2009/agents/39065
+covers:
+- cover_type: archival
+  image_path: 37791-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: 'Translation of: The Snow Queen'
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37791'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: Η νεράιδα του Πάγου
+url: http://www.gutenberg.org/ebooks/37791
